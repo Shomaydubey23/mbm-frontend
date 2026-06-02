@@ -287,9 +287,3 @@ Full Stack Java Developer
 GitHub:
 https://github.com/Shomaydubey23
 
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-**
