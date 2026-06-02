@@ -62,6 +62,12 @@ The application is built using React JS for the frontend, Spring Boot for the ba
 
 ![Business Management](images/Business.png)
 
+🏢 Business Details Module
+The GIF below demonstrates the Business Details functionality, including viewing, managing, and interacting with business records.
+
+![Business Details Demo](images/BusinessDetail.gif)
+
+
 ### 👨‍💼 Employee Management
 
 ![Employee Management](images/Employee.png)
