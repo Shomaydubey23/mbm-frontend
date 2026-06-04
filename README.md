@@ -56,7 +56,7 @@ The application is built using React JS for the frontend, Spring Boot for the ba
 
 ### 📊 Dashboard
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](images/Dashbaord.png)
 
 ### 🏢 Business Management
 
