@@ -87,7 +87,7 @@ The GIF below demonstrates the Business Details functionality, including viewing
 ### Frontend
 
 * React JS
-* JavaScript (ES6+)
+* JavaScript 
 * HTML5
 * CSS3
 * Bootstrap 5
@@ -112,7 +112,6 @@ The GIF below demonstrates the Business Details functionality, including viewing
 * GitHub
 * Postman
 * VS Code
-* IntelliJ IDEA
 
 ---
 
